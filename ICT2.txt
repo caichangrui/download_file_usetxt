@@ -1,0 +1,10 @@
+VRP http://res.huaweils.com/MzgzM2JhMDAtNDYxZS00NDljLTlhMDAtNmQyMzVkN2NkNTgy.mp4
+VLAN工作原理与配置 http://res.huaweils.com/NWY1NTlkZjEtNmZlNC00YzM2LWIyZDctNGEyNTJjZTQ2NDc4.mp4
+VLAN端口类型与配置 http://res.huaweils.com/MDVhZTkyOTgtYzBlZi00NmRhLWFiNGMtOWE3YzZiNTdmODI2.mp4
+VLAN路由 http://res.huaweils.com/NjA2MjlmZTgtYTI0OS00YzM5LTg1OTgtNTE5YjE0Y2FkNjA4.mp4
+VLAN基本配置 http://res.huaweils.com/NjI0ZDJmNWQtZDZlNi00MDMyLTk1NjYtYzM1Zjg0NGQwMjM3.mp4
+路由协议基础 http://res.huaweils.com/MmE1Yjk3NTgtNzBlMy00OTYzLTk5MDEtZDcyODFiYmZlNWQ2.mp4
+动态路由基础 http://res.huaweils.com/N2U3NzQxNGUtNzdjZC00Yjg3LWEwNDEtNDlmNTdlOTVkZjgz.mp4
+OSPF基础 http://res.huaweils.com/NGQxNTQ2ODktNmU5Yi00Y2YwLWEzNDUtNGY2ZmFjZDNkZGRi.mp4
+OSPF协议概述 http://res.huaweils.com/NjA4ZWZjYTAtNmQ2Yi00OWU1LThiZWMtZmMzYTY0NjAxMDVh.mp4
+OSPF基本配置 http://res.huaweils.com/NmJhZWQxM2EtNGNlMS00NzZhLWFiYmMtYmMyZmQ5YjU5NDFl.mp4
